@@ -1,5 +1,0 @@
-flask 
-youtube-transcript-api 
-transformers 
-tensorflow
-gunicorn
